@@ -1,0 +1,46 @@
+---
+title: "Teaching"
+author: "Richard Ramsey"
+format:
+  html:
+    toc: true
+    toc-title: "Year"
+---
+
+Some material from recent courses. 
+
+# 2025 # 
+
+## Course 1 ## 
+
+- [Week 1 - Title](/2025/course_1/week1/) // [Reading]() 
+
+- [Week 2 - Title](/2025/course_1/week2/) // [Reading]() 
+
+
+## Course 2 ## 
+
+- [Week 1 - Title](/2025/course_2/week1/) // [Reading]() 
+
+- [Week 2 - Title](/2025/course_2/week2/) // [Reading]() 
+
+
+# 2024 # 
+
+## Course 1 ## 
+
+- [Week 1 - Title](/2024/course_1/week1/) // [Reading]() 
+
+- [Week 2 - Title](/2024/course_1/week2/) // [Reading]() 
+
+
+## Course 2 ## 
+
+- [Week 1 - Title](/2024/course_2/week1/) // [Reading]() 
+
+- [Week 2 - Title](/2024/course_2/week2/) // [Reading]() 
+
+
+# More information #
+
+For more information, see my [website](https://rich-ramsey.com).
