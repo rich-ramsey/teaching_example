@@ -13,7 +13,7 @@ Some material from recent courses.
 
 ## Course 1 ## 
 
-- [Week 1 - Title](2025/course_1/week1/) // [Reading]() 
+- [Week 1 - Title](/2025/course_1/week1/) // [Reading]() 
 
 - [Week 2 - Title](2025/course_1/week2/) // [Reading]() 
 
